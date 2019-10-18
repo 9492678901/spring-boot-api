@@ -19,4 +19,4 @@
       docker_container:
         name: myspring
         image: bhargav7329/spring-boot-api:1.0
-	port : 80:8080
+        port : 80:8080
